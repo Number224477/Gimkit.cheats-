@@ -35,7 +35,7 @@ There are 3 good methods to using these scripts:
 
 <details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
 
-We don't actually know what to do about this or how to fix it, sorry.
+There is a solution in [3kh0's ext-remover repository](https://github.com/3kh0/ext-remover/?tab=readme-ov-file#ublock-run-run-code-on-pages).
 </details>
 
 <details><summary><h3>(script) is not working?</h3></summary>
